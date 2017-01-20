@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ClassContainer>
+  <Worker1>
+    <Name>Anton</Name>
+    <sph>123.9</sph>
+  </Worker1>
+  <Worker1>
+    <Name>Stepan</Name>
+    <sph>19</sph>
+  </Worker1>
+  <Worker1>
+    <Name>Petro</Name>
+    <sph>100</sph>
+  </Worker1>
+  <Worker2>
+    <Name>Zenyk</Name>
+  </Worker2>
+</ClassContainer>
+  
+
